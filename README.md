@@ -41,4 +41,4 @@ for the custom architecture i have used a (3,3) kernel size and relu as activati
 | Model     | Validation Accuracy      | Testing Accuracy     |
 | ------------- | ------------- | -------- |
 | VGG-16          | 89.15         | 83.53  |
-| custom(12 layerd)           | 92.54         | 89.93  |
+| custom(12 layered)           | 92.54         | 89.93  |
