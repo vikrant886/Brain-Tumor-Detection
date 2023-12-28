@@ -31,5 +31,12 @@ Understanding the architecture:
 Each input x (image) has a shape of (150, 150, 3) and is fed into the neural network. And, it goes through the following layers:
 
 Firstly i have applied an VGG-16 architecture containing 13 convulation layers and 3 dense layers , then i have used another Neural Network architecture with 11 convulation layers and 1 dense layer.
-for the custom architecture i have used a (3,3) kernel size and relu as activation function.
+for the custom architecture i have used a (3,3) kernel size and relu as activation function.\
+
 ![download](https://github.com/vikrant886/Brain-Tumor-Detection/assets/94632119/a59eea09-3493-474b-901b-0ae0877eaa7f)
+
+
+| FirstName     | LastName      | City     |
+| ------------- | ------------- | -------- |
+| John          | Test1         | NewYork  |
+| Bob           | Test2         | Toronto  |
