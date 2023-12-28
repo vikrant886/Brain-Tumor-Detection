@@ -42,3 +42,8 @@ for the custom architecture i have used a (3,3) kernel size and relu as activati
 | ------------- | ------------- | -------- |
 | VGG-16          | 89.15         | 83.53  |
 | custom(12 layered)           | 92.54         | 89.93  |
+
+## Frontend
+
+Also created a frontend using ReactJs and MUI which would send the MRI images to the backend server running on the pre-trained model for determining the presence of Tumor.
+Backend would return the predicted response to the Frontend .
