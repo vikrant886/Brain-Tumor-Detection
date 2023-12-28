@@ -36,7 +36,9 @@ for the custom architecture i have used a (3,3) kernel size and relu as activati
 ![download](https://github.com/vikrant886/Brain-Tumor-Detection/assets/94632119/a59eea09-3493-474b-901b-0ae0877eaa7f)
 
 
-| FirstName     | LastName      | City     |
+## Results
+
+| Model     | Validation Accuracy      | Testing Accuracy     |
 | ------------- | ------------- | -------- |
-| John          | Test1         | NewYork  |
-| Bob           | Test2         | Toronto  |
+| VGG-16          | 89.15         | 83.53  |
+| custom(12 layerd)           | 92.54         | 89.93  |
